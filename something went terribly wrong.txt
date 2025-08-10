@@ -1,0 +1,21 @@
+something went terribly wrong and now everything is on origin/master, but I wanted it to be on origin/main. Now, origin/main has:
+
+
+
+{
+'.gitignore',
+'README.md',
+
+
+PdfToMp3/
+	obj/
+	Properties/
+	appsettings.Development.json
+	appsettings.json
+	PdfToMp3.csproj
+	Program.cs
+}
+
+
+
+
