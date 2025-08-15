@@ -1,0 +1,1 @@
+takeown /F "E:\FIRST JOB\DOTNET\3 PDFTOMP3" /R /D Y (or S en español)
