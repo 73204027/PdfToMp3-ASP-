@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "m1+T/efabzPJKHOlB19vuG2fZAqXAAnPQhFIf5cBMMw=",
+  "Source": "PdfToMp3",
+  "BasePath": "_content/PdfToMp3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PdfToMp3\\wwwroot",
+      "Source": "PdfToMp3",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\marcelo\\MY PROJECTS\\DOTNET\\PdfToMp3-ASP-\\PdfToMp3\\wwwroot\\",
+      "BasePath": "_content/PdfToMp3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\USER\\Documents\\marcelo\\MY PROJECTS\\DOTNET\\PdfToMp3-ASP-\\PdfToMp3\\wwwroot\\index.html",
+      "SourceId": "PdfToMp3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\marcelo\\MY PROJECTS\\DOTNET\\PdfToMp3-ASP-\\PdfToMp3\\wwwroot\\",
+      "BasePath": "_content/PdfToMp3",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\Documents\\marcelo\\MY PROJECTS\\DOTNET\\PdfToMp3-ASP-\\PdfToMp3\\wwwroot\\render_SPA.js",
+      "SourceId": "PdfToMp3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\marcelo\\MY PROJECTS\\DOTNET\\PdfToMp3-ASP-\\PdfToMp3\\wwwroot\\",
+      "BasePath": "_content/PdfToMp3",
+      "RelativePath": "render_SPA.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\render_SPA.js"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\Documents\\marcelo\\MY PROJECTS\\DOTNET\\PdfToMp3-ASP-\\PdfToMp3\\wwwroot\\submit.js",
+      "SourceId": "PdfToMp3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\marcelo\\MY PROJECTS\\DOTNET\\PdfToMp3-ASP-\\PdfToMp3\\wwwroot\\",
+      "BasePath": "_content/PdfToMp3",
+      "RelativePath": "submit.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\submit.js"
+    }
+  ]
+}

@@ -3,12 +3,12 @@
 public class pdfToMp3_service {
 
 
-    public static string pdfToMp3() {
+    public static Task PdfToMp3() {
 
         // local variables
-        string tempDir = ;
+        string tempDir = "storage\temp";
         
-        
+
 
 
         // save audio to tempdir
@@ -19,7 +19,7 @@ public class pdfToMp3_service {
 
 
 
-
+        return Task.CompletedTask;
 
     }
 

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\Documents\\marcelo\\MY PROJECTS\\DOTNET\\PdfToMp3-ASP-\\PdfToMp3\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\marcelo\\MY PROJECTS\\DOTNET\\PdfToMp3-ASP-\\PdfToMp3\\wwwroot\\render_SPA.js",
+      "PackagePath": "staticwebassets\\render_SPA.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Documents\\marcelo\\MY PROJECTS\\DOTNET\\PdfToMp3-ASP-\\PdfToMp3\\wwwroot\\submit.js",
+      "PackagePath": "staticwebassets\\submit.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PdfToMp3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PdfToMp3.props",
+      "PackagePath": "build\\PdfToMp3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PdfToMp3.props",
+      "PackagePath": "buildMultiTargeting\\PdfToMp3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PdfToMp3.props",
+      "PackagePath": "buildTransitive\\PdfToMp3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PdfToMp3.props" />
+</Project>
